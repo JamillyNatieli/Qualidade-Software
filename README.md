@@ -1,2 +1,4 @@
 # Qualidade Software
- Primeiro repositório
+ Primeiro repositório da matéria de qualidade de software.
+
+ Atividade prática!!!
